@@ -1,0 +1,30 @@
+body {background:#A8C7EA;}
+h{ 
+
+  background-color: red;
+
+  padding-top:50px; 
+
+  padding-left:50px; 
+
+  padding-right:50px; 
+
+  padding-bottom:50px; 
+
+  margin-top:100px; 
+
+  margin-left:100px; 
+
+  margin-right:100px; 
+
+  margin-bottom:100px;   
+
+}
+.video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-2;  
+}
